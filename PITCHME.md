@@ -51,6 +51,10 @@
 #### No search
 #### No interaction
 #### No dynamic information
+---
+@title[Idea]
+### <span class="gold">Idea</span>
+#### Solve problems using new technology
 
 ---?image=assets/images/google-maps-transit-lines.png&size=contain
 @title[Google Maps transit]
