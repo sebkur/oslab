@@ -7,19 +7,7 @@
 ### 6 March 2019
 
 ---
-
-@title[OpenMetroMaps]
-
-### <span class="gold">OpenMetroMaps</span>
-
-#### Motivation
-#### Project History
-#### Technical Overview
-#### Applications / Ideas
-#### Startup Idea
-
----
-
+@title[Motivation]
 ## <span class="gold">Motivation</span>
 
 ---?image=assets/images/play-topobyte-berlin.png&size=contain
