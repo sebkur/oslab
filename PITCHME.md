@@ -39,11 +39,11 @@
 ---?image=assets/images/vbb-24h.png&size=contain
 @title[VBB 24h]
 
----?image=assets/images/bvg-su.png&size=contain
-@title[BVG S+U]
-
 ---?image=assets/images/google-maps-transit-lines.png&size=contain
 @title[Google Maps transit]
+
+---?image=assets/images/bvg-su.png&size=contain
+@title[BVG S+U]
 
 ---?image=assets/images/google-maps-hermann-walther1.png&size=contain
 @title[Route on Google Maps]
@@ -57,15 +57,6 @@
 ---?image=assets/images/vbb-map-routing-hermann-walther.png&size=contain
 @title[Route on schematic map]
 
----?image=assets/images/google-maps-lpg.png&size=contain
-@title[LPG on Google Maps]
-
----?image=assets/images/google-maps-lpg-transit.png&size=contain
-@title[LPG on Google Maps with transit]
-
----?image=assets/images/lpg-omm.png&size=contain
-@title[LPG on BVG]
-
 ---?image=assets/images/berlin-english.png&size=contain
 @title[S+U Englisch]
 
@@ -77,6 +68,15 @@
 
 ---?image=assets/images/miet-map-berlin.jpg&size=contain
 @title[Mietpreise]
+
+---?image=assets/images/google-maps-lpg.png&size=contain
+@title[LPG on Google Maps]
+
+---?image=assets/images/google-maps-lpg-transit.png&size=contain
+@title[LPG on Google Maps with transit]
+
+---?image=assets/images/lpg-omm.png&size=contain
+@title[LPG on BVG]
 
 ---?image=assets/images/kisso-kontakt.png&size=contain
 @title[Kisso Kontakt]
