@@ -7,6 +7,14 @@
 ### 6 March 2019
 
 ---
+@title[About me]
+### <span class="gold">Sebastian Kürten</span>
+#### 2007-2014: Computer Science
+#### Since 2014: self-employed
+#### 09/2017: Prototype Fund
+#### 09/2018: Berlin Startup Stipendium
+
+---
 @title[Motivation]
 ## <span class="gold">Motivation</span>
 
