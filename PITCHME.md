@@ -23,9 +23,11 @@
 ## <span class="gold">Motivation</span>
 
 ---
-<!-- Maps of public transport agencies -->
 @title[BVG S+U]
 ![Image](assets/images/bvg-su.png)
+---
+@title[Google Maps transit]
+![Image](assets/images/google-maps-transit-lines.png)
 ---
 @title[Route on Google Maps]
 ![Image](assets/images/google-maps-hermann-walther1.png)
@@ -38,3 +40,12 @@
 ---
 @title[Route on schematic map]
 ![Image](assets/images/vbb-map-routing-hermann-walther.png)
+---
+@title[LPG on Google Maps]
+![Image](assets/images/google-maps-lpg.png)
+---
+@title[LPG on Google Maps with transit]
+![Image](assets/images/google-maps-lpg-transit.png)
+---
+@title[LPG on BVG]
+![Image](assets/images/lpg-omm.png)
