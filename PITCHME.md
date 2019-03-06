@@ -49,3 +49,15 @@
 ---
 @title[LPG on BVG]
 ![Image](assets/images/lpg-omm.png)
+
+---?image=assets/images/berlin-english.png&size=contain
+@title[S+U Englisch]
+
+---?image=assets/images/mitvergnuegen-icecream.png&size=contain
+@title[MV Eisläden]
+
+---?image=assets/images/mitvergnuegen-clubs.jpg&size=contain
+@title[Clubs]
+
+---?image=assets/images/miet-map-berlin.jpg&size=contain
+@title[Mietpreise]
