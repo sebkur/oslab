@@ -42,6 +42,16 @@
 ---?image=assets/images/vbb-su.png&size=contain
 @title[VBB S+U]
 
+---
+@title[Problems]
+### <span class="gold">Problems</span>
+#### No permission from some agencies
+#### License fee
+#### Restriction not to change anything
+#### No search
+#### No interaction
+#### No dynamic information
+
 ---?image=assets/images/google-maps-transit-lines.png&size=contain
 @title[Google Maps transit]
 
