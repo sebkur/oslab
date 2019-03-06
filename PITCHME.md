@@ -70,6 +70,14 @@
 ---?image=assets/images/vbb-map-routing-hermann-walther.png&size=contain
 @title[Route on schematic map]
 
+---
+@title[Desired features]
+### <span class="gold">Desired features</span>
+#### Free material
+#### Enable Search
+#### Enable Dynamic Information
+#### Enable Interactivity
+
 ---?image=assets/images/berlin-english.png&size=contain
 @title[S+U Englisch]
 
