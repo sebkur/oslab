@@ -31,6 +31,18 @@
 ---?image=assets/images/play-search-berlin.png&size=contain
 @title[Google Play: Berlin]
 
+---?image=assets/images/vbb-su.png&size=contain
+@title[VBB S+U]
+
+---?image=assets/images/vbb-regio.png&size=contain
+@title[VBB Regio]
+
+---?image=assets/images/vbb-tram.png&size=contain
+@title[VBB Tram]
+
+---?image=assets/images/vbb-24h.png&size=contain
+@title[VBB 24h]
+
 ---?image=assets/images/bvg-su.png&size=contain
 @title[BVG S+U]
 
