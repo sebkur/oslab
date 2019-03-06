@@ -12,7 +12,7 @@
 #### 2007-2014: Computer Science
 #### Since 2014: self-employed
 #### 09/2017: Prototype Fund
-#### 09/2018: Berlin Startup Stipendium
+#### 09/2018: Berliner Startup Stipendium
 
 ---
 @title[Motivation]
