@@ -39,6 +39,9 @@
 ---?image=assets/images/vbb-24h.png&size=contain
 @title[VBB 24h]
 
+---?image=assets/images/vbb-su.png&size=contain
+@title[VBB S+U]
+
 ---?image=assets/images/google-maps-transit-lines.png&size=contain
 @title[Google Maps transit]
 
