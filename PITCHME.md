@@ -78,6 +78,12 @@
 #### Enable Dynamic Information
 #### Enable Interactivity
 
+---?image=assets/images/other-tubemapcentral.png&size=contain
+@title[Tube Map Central]
+
+---?image=assets/images/other-inat.png&size=contain
+@title[Inat.fr]
+
 ---?image=assets/images/berlin-english.png&size=contain
 @title[S+U Englisch]
 
