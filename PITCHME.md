@@ -22,33 +22,32 @@
 
 ## <span class="gold">Motivation</span>
 
----
+---?image=assets/images/bvg-su.png&size=contain
 @title[BVG S+U]
-![Image](assets/images/bvg-su.png)
----
+
+---?image=assets/images/google-maps-transit-lines.png&size=contain
 @title[Google Maps transit]
-![Image](assets/images/google-maps-transit-lines.png)
----
+
+---?image=assets/images/google-maps-hermann-walther1.png&size=contain
 @title[Route on Google Maps]
-![Image](assets/images/google-maps-hermann-walther1.png)
----
+
+---?image=assets/images/google-maps-hermann-walther2.png&size=contain
 @title[Route on Google Maps]
-![Image](assets/images/google-maps-hermann-walther2.png)
----
+
+---?image=assets/images/sbahn-hermann-walther.png&size=contain
 @title[Route on S-Bahn.berlin]
-![Image](assets/images/sbahn-hermann-walther.png)
----
+
+---?image=assets/images/vbb-map-routing-hermann-walther.png&size=contain
 @title[Route on schematic map]
-![Image](assets/images/vbb-map-routing-hermann-walther.png)
----
+
+---?image=assets/images/google-maps-lpg.png&size=contain
 @title[LPG on Google Maps]
-![Image](assets/images/google-maps-lpg.png)
----
+
+---?image=assets/images/google-maps-lpg-transit.png&size=contain
 @title[LPG on Google Maps with transit]
-![Image](assets/images/google-maps-lpg-transit.png)
----
+
+---?image=assets/images/lpg-omm.png&size=contain
 @title[LPG on BVG]
-![Image](assets/images/lpg-omm.png)
 
 ---?image=assets/images/berlin-english.png&size=contain
 @title[S+U Englisch]
