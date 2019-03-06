@@ -60,3 +60,12 @@
 
 ---?image=assets/images/miet-map-berlin.jpg&size=contain
 @title[Mietpreise]
+
+---?image=assets/images/kisso-kontakt.png&size=contain
+@title[Kisso Kontakt]
+
+---?image=assets/images/kisso-google-maps.png&size=contain
+@title[Kisso Google map]
+
+---?image=assets/images/kisso-bvg.png&size=contain
+@title[Kisso BVG Map]
